@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=FeigeLite
+GenericName=飞鸽 Lite
+Comment=局域网传文件、发文字，兼容飞秋 / IP Messenger
+Exec=python3 @APPDIR@/feige_gtk.py
+Icon=io.github.wisehai.FeigeLite
+Terminal=false
+Categories=Network;FileTransfer;
+Keywords=feige;feiq;ipmsg;pigeon;lan;share;飞鸽;飞秋;传文件;
+StartupWMClass=io.github.wisehai.FeigeLite
+StartupNotify=true

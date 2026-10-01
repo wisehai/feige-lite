@@ -1,0 +1,4 @@
+__pycache__/
+dist/
+# 开发用启动项（含本机路径），安装时由 .desktop.in 生成
+data/*.desktop
